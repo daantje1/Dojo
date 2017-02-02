@@ -20,7 +20,7 @@ maar je bent ook vrij je eigen weg te kiezen.
  * Tijd: 
     * 18:15: inloop
     * 18:30: start les
-    * 19:30: pauze
+    * 19:30: pauzed
     * 19:45: start les
     * 20:30: einde les
  * Locatie: De Jonge Onderzoekers Groningen, www.djog.nl, Dirk Huizingastraat 13
