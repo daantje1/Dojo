@@ -107,7 +107,7 @@ is Engels voor 'nee'.
 
 ![Processing Update venster, klik op 'No'](ProcessingOpstartenOpCursusLaptopNewVersionDialog.png)
 
-## Eindppdracht
+## Eindopdracht
  
  * Start Processing helemaal zonder hulp
 
