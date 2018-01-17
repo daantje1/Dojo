@@ -31,7 +31,7 @@ void draw()
 Type de code van `Een bal met een snelheid` over. 
 Zet de waarde van `snelheid` op `1`. Wat zie je?
 
-\pagebreak
+
 
 ## Antwoord 1
 
